@@ -1,7 +1,7 @@
 'use strict';
 
-const RCONConnection = require('./lib/rconconnection');
-const RCONError = require('./lib/rconerror');
+const RconConnection = require('./lib/rconconnection');
+const RconError = require('./lib/rconerror');
 
-exports.RCONConnection = RCONConnection;
-exports.RCONError = RCONError;
+exports.RconConnection = RconConnection;
+exports.RconError = RconError;
