@@ -1,0 +1,26 @@
+{
+  "name": "bf-recon",
+  "version": "0.0.2",
+  "description": "A simple package to use the remote console of Battlefield servers.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "promise-task": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelTheriot/bf-rcon.git"
+  },
+  "author": "Michael Theriot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichaelTheriot/bf-rcon/issues"
+  },
+  "homepage": "https://github.com/MichaelTheriot/bf-rcon#readme"
+}
