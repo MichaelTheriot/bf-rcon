@@ -1,6 +1,6 @@
 {
   "name": "bf-recon",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple package to use the remote console of Battlefield servers.",
   "main": "index.js",
   "directories": {
